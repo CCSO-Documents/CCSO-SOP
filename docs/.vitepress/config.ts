@@ -25,6 +25,11 @@ export default defineConfig({
           iconUrl: 'https://cdn.discordapp.com/avatars/210768103594917888/ed7a7bbf2552f482a3a9bf8c21731699.webp?size=1024',
           username: '1B-03 | Mr. Blouse',
           rank: 'Assistant Undersheriff'
+        },
+        {
+          iconUrl: 'https://cdn.discordapp.com/avatars/1298894263505125431/a_8c8f89c3bc77d0dc73373a89ce4fe682.webp?size=1280&animated=true',
+          username: '1B-01 | Sheriff J. Hayes',
+          rank: 'Sheriff'
         }
       ]
     },
