@@ -126,16 +126,19 @@ All members must follow the CCSO chain of command.
 Members should report concerns, questions, complaints, or requests to the lowest available supervisor before contacting high command.
 
 ### Chain of Command Order
-
-1. Corporal
-2. Sergeant
-3. Staff Sergeant
-4. Lieutenant
-5. Captain
-6. Major
-7. Colonel
-8. Undersheriff
-9. Sheriff
+1. Deputy I
+2. Deputy II
+3. Deputy III
+4. Corporal
+5. Sergeant
+6. Lieutenant
+7. Captain
+8. Major
+9. Lieutenant Colonel
+10. Colonel
+11. Assistant Undersheriff
+12. Undersheriff
+13. Sheriff
 
 ### Chain of Command Expectations
 
