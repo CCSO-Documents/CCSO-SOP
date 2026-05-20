@@ -1,0 +1,15 @@
+{
+  "name": "ccso-sop",
+  "version": "1.0.0",
+  "description": "Caledonia County Sheriff's Office Standard Operating Procedures",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.40",
+    "vue": "^3.4.15"
+  }
+}

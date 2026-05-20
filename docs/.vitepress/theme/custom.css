@@ -1,0 +1,201 @@
+:root {
+  --vp-c-brand: #1f5f8f;
+  --vp-c-brand-light: #2f7daf;
+  --vp-c-brand-lighter: #4a98c8;
+  --vp-c-brand-dark: #164869;
+  --vp-c-brand-darker: #0f344d;
+  --ccso-scrollbar-track: #e7edf2;
+  --ccso-scrollbar-thumb: #1f5f8f;
+  --ccso-scrollbar-thumb-hover: #2f7daf;
+}
+
+:root {
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f9f9f9;
+  --vp-c-bg-mute: #f1f1f1;
+  --vp-c-text: #213547;
+  --vp-c-text-light: #3a4b5c;
+  --vp-c-text-lighter: #5a6b7c;
+  --vp-c-text-dark: #1a2937;
+  --vp-c-text-darker: #111827;
+}
+
+.dark {
+  --vp-c-bg: #1a1a1a;
+  --vp-c-bg-soft: #242424;
+  --vp-c-bg-mute: #2f2f2f;
+  --vp-c-text: #ffffff;
+  --vp-c-text-light: #f0f0f0;
+  --vp-c-text-lighter: #e0e0e0;
+  --vp-c-text-dark: #d0d0d0;
+  --vp-c-text-darker: #c0c0c0;
+  --ccso-scrollbar-track: #242424;
+  --ccso-scrollbar-thumb: #4a98c8;
+  --ccso-scrollbar-thumb-hover: #7ab8df;
+}
+
+* {
+  scrollbar-color: var(--ccso-scrollbar-thumb) var(--ccso-scrollbar-track);
+  scrollbar-width: thin;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html.showcase-locked {
+  overflow: hidden;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--ccso-scrollbar-track);
+}
+
+*::-webkit-scrollbar-thumb {
+  border: 2px solid var(--ccso-scrollbar-track);
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--vp-c-brand-lighter), var(--vp-c-brand));
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, var(--ccso-scrollbar-thumb-hover), var(--vp-c-brand-light));
+}
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 9997;
+  height: 5.5rem;
+  pointer-events: none;
+}
+
+body::before {
+  top: 0;
+  background: linear-gradient(var(--vp-c-bg), color-mix(in srgb, var(--vp-c-bg) 72%, transparent), transparent);
+}
+
+body::after {
+  bottom: 0;
+  background: linear-gradient(transparent, color-mix(in srgb, var(--vp-c-bg) 72%, transparent), var(--vp-c-bg));
+}
+
+/* Hide default nav */
+.VPNav {
+  display: none !important;
+}
+
+/* Position theme toggle */
+.VPSwitch {
+  position: fixed !important;
+  top: 1rem !important;
+  right: 1rem !important;
+  z-index: 9999 !important;
+}
+
+/* Remove sidebar curtain */
+.VPSidebar .curtain {
+  display: none !important;
+}
+
+.VPSidebar {
+  background: var(--vp-c-bg) !important;
+  animation: slideIn 0.3s ease-out;
+  border-right: 1px solid var(--vp-c-divider);
+}
+
+.VPContent {
+  padding-top: 5rem !important;
+  background: var(--vp-c-bg);
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  color: var(--vp-c-brand);
+  scroll-margin-top: 7.5rem;
+}
+
+.vp-doc a {
+  color: var(--vp-c-brand-light);
+  transition: color 0.2s ease;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-brand-lighter);
+}
+
+/* Hide Next Page button */
+.VPDocFooter .pager {
+  display: none !important;
+}
+
+/* Add animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Animate content elements */
+.VPDoc {
+  animation: fadeIn 0.4s ease-out;
+}
+
+.VPLink {
+  transition: transform 0.2s ease;
+}
+
+.VPLink:hover {
+  transform: translateX(4px);
+}
+
+.VPSidebarItem {
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.VPSidebarItem:hover {
+  transform: translateX(2px);
+}
+
+/* Theme toggle transition */
+.VPSwitch {
+  transition: background-color 0.2s ease;
+}
+
+/* Hide "On this page" on mobile */
+@media (max-width: 768px) {
+  .VPLocalNav {
+    display: none !important;
+  }
+
+  .VPSwitch {
+    top: 0.75rem !important;
+    right: 0.75rem !important;
+  }
+
+  .VPContent {
+    padding-top: 4rem !important;
+  }
+}
