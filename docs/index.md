@@ -95,25 +95,28 @@ Asking for a promotion, hinting for a promotion, or pressuring command staff for
 ### Membership Ranks
 
 - Cadet
-- Deputy
-- Senior Deputy
-- Master Deputy
+- Probationary Deputy
+- Deputy I
+- Deputy II
+- Deputy III
 - Corporal
 
 ### Supervisor Ranks
 
 - Sergeant
-- Staff Sergeant
+
 
 ### Command Staff
 
 - Lieutenant
 - Captain
+- Major
 
 ### High Command
 
-- Major
+- Lieutenant Colonel
 - Colonel
+- Assistant Undersheriff
 - Undersheriff
 - Sheriff
 
