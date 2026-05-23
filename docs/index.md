@@ -1,263 +1,322 @@
 # CCSO - Standard Operating Procedures
 
+> **Integrity • Service • Courage**
+
 ## Department Information
 
-The **Caledonia County Sheriff's Office**, also known as **CCSO**, is a law enforcement agency operating under **NCRP - Northern Caledonia RP**.
+The **Caledonia County Sheriff's Office**, also known as **CCSO**, is a professional law enforcement agency responsible for protecting the public and enforcing the law throughout Caledonia County.
 
-The purpose of this document is to outline the structure, expectations, conduct standards, patrol procedures, disciplinary guidelines, pursuit policy, ride-along requirements, and use-of-force standards for all members of the Caledonia County Sheriff's Office.
+This manual serves as the foundational reference for all CCSO personnel. It outlines department standards, responsibilities, expectations, procedures, and policies to ensure consistent and professional conduct across all divisions.
 
-All members are expected to understand and follow this document while representing CCSO.
-
----
-
-## 1. Law Enforcement Agency Role
-
-### Purpose
-
-The purpose of the **Caledonia County Sheriff's Office** is to maintain peace, safety, and order throughout Caledonia County.
-
-CCSO is responsible for county law enforcement, traffic enforcement, emergency response, scene security, prisoner transport, warrant service, and assisting other departments when requested.
-
-The department is expected to provide a professional, realistic, and organized law enforcement environment while still allowing members to enjoy their patrol experience.
-
-### Department Responsibilities
-
-CCSO members are responsible for:
-
-- Enforcing county laws and regulations.
-- Responding to calls for service.
-- Conducting traffic stops.
-- Assisting civilians in need.
-- Maintaining public safety.
-- Supporting other agencies when requested.
-- Handling arrests and detainments properly.
-- Managing scenes in a professional manner.
-- Representing NCRP and CCSO with maturity and respect.
-
----
-
-## 2. Oath of Office
-
-All sworn members of the Caledonia County Sheriff's Office shall take an **Oath of Office** before assuming sworn status or receiving a promotion to a higher sworn rank.
-
-The Oath of Office is a pledge to uphold the laws, policies, and standards of Northern Caledonia and the Caledonia County Sheriff's Office.
-
-### Oath of Office
-
-> I, [Name], do solemnly swear to uphold the laws and standards of Northern Caledonia and the Caledonia County Sheriff's Office.
->
-> I will serve the citizens of Caledonia County with professionalism, fairness, and integrity.
->
-> I will respect the chain of command, protect life and property, and carry out my duties without bias, abuse, or dishonor.
->
-> I understand that the badge I wear represents public trust, and I will conduct myself in a manner worthy of that trust.
-
-::: tip
-The Oath of Office represents a member's commitment to professionalism, responsibility, and public service.
-:::
-
----
-
-## 3. Code of Ethics
-
-All CCSO members must understand the ethical responsibilities of their position.
-
-Members are expected to act with honesty, fairness, self-control, and professionalism at all times. Deputies must not allow personal feelings, friendships, grudges, or bias to affect their decisions while on duty.
-
-### Code of Ethics
-
-As a member of the **Caledonia County Sheriff's Office**, my first duty is to serve the people of Caledonia County.
-
-I will safeguard life and property, protect the innocent, assist those in need, and enforce the law with fairness and respect.
-
-I will remain calm in the face of danger, disrespect, or pressure. I will maintain self-control and act with professionalism during all situations.
-
-I will be honest in both my personal and official conduct. I will follow the policies of CCSO and the rules of Northern Caledonia.
-
-I will not abuse my authority, use unnecessary force, or allow personal bias to influence my decisions.
-
-I recognize the badge of the Caledonia County Sheriff's Office as a symbol of public trust. I will honor that trust through my actions, decisions, and conduct.
-
----
-
-## 4. Rank Structure
-
-The CCSO rank structure exists to create a clear chain of command, maintain order, and provide members with leadership direction.
-
-Promotions are based on performance, professionalism, activity, leadership, knowledge, and department needs.
-
-Promotions are not guaranteed based on time served.
+**Author:** Sheriff Fowler  
+**Last Updated:** 03/16/26  
+**Status:** Currently in Effect
 
 ::: warning
-Asking for a promotion, hinting for a promotion, or pressuring command staff for a promotion may negatively affect promotion eligibility.
+Failure to follow department policy may result in disciplinary action, including warnings, infractions, suspension, demotion, or removal from the department.
 :::
-
-### Membership Ranks
-
-- Cadet
-- Probationary Deputy
-- Deputy I
-- Deputy II
-- Deputy III
-- Corporal
-
-### Supervisor Ranks
-
-- Sergeant
-
-
-### Command Staff
-
-- Lieutenant
-- Captain
-- Major
-
-### High Command
-
-- Lieutenant Colonel
-- Colonel
-- Assistant Undersheriff
-- Undersheriff
-- Sheriff
 
 ---
 
-## 5. Chain of Command
+## Table of Contents
 
-All members must follow the CCSO chain of command.
+- [1. Introduction](#_1-introduction)
+- [2. Mission Statement](#_2-mission-statement)
+- [3. Traits of an Effective Deputy](#_3-traits-of-an-effective-deputy)
+- [4. Chain of Command](#_4-chain-of-command)
+- [5. Department Divisions](#_5-department-divisions)
+- [6. Functions & Responsibilities](#_6-functions--responsibilities)
+- [7. Emergency Lights & Siren Procedure](#_7-emergency-lights--siren-procedure)
+- [8. Traffic Stop Procedure](#_8-traffic-stop-procedure)
+- [9. Traffic Stop Positioning](#_9-traffic-stop-positioning)
+- [10. Arrest, Miranda Rights & Interrogation Procedure](#_10-arrest-miranda-rights--interrogation-procedure)
+- [11. Pursuit, PIT & Intervention Procedure](#_11-pursuit-pit--intervention-procedure)
+- [12. Use of Force & Taser Deployment](#_12-use-of-force--taser-deployment)
+- [13. Search & Evidence Handling Procedure](#_13-search--evidence-handling-procedure)
+- [14. High Priority Scenes](#_14-high-priority-scenes)
+- [15. Breaching Policy](#_15-breaching-policy)
+- [16. Department Policies](#_16-department-policies)
+- [17. Final Notes](#_17-final-notes)
 
-Members should report concerns, questions, complaints, or requests to the lowest available supervisor before contacting high command.
+---
 
-### Chain of Command Order
-1. Deputy I
-2. Deputy II
-3. Deputy III
-4. Corporal
-5. Sergeant
-6. Lieutenant
-7. Captain
-8. Major
-9. Lieutenant Colonel
-10. Colonel
-11. Assistant Undersheriff
-12. Undersheriff
-13. Sheriff
+## 1. Introduction
 
-### Chain of Command Expectations
+The Caledonia County Sheriff's Office operates as a professional law enforcement agency responsible for protecting the public and enforcing the law throughout Caledonia County.
 
-- Lower ranks must respect higher ranks.
-- Higher ranks must lead professionally.
-- Supervisors must not abuse their authority.
-- Members should not skip ranks unless the matter is urgent or sensitive.
-- Department issues should be handled within CCSO whenever possible.
+This handbook establishes the policies, procedures, and expectations that all members must follow while representing the department.
+
+Members of the Sheriff's Office must maintain professionalism at all times. Actions taken while on duty reflect directly on the department. Deputies are expected to demonstrate maturity, responsibility, and respect toward civilians, fellow officers, supervisors, and other emergency services.
+
+::: tip
+All members are expected to understand this SOP before actively representing CCSO on duty.
+:::
+
+---
+
+## 2. Mission Statement
+
+The mission of the Caledonia County Sheriff's Office is to protect life, maintain public safety, and enforce the laws of Caledonia County.
+
+Deputies are responsible for responding to emergencies, preventing criminal activity, assisting civilians, and maintaining order.
+
+Professional conduct and realistic law enforcement practices are essential during all operations. Deputies must prioritize safety, fairness, and responsible decision-making while performing their duties.
+
+---
+
+## 3. Traits of an Effective Deputy
+
+### Honesty
+
+Deputies must tell the truth, take responsibility for their actions, and do what is right even when it is difficult.
+
+Trust is built through consistency, honesty, and accountability.
+
+### Courage
+
+Courage does not mean a deputy is never afraid. It means they can step forward during difficult moments, high-pressure calls, hard conversations, or unfamiliar situations while still remaining professional.
+
+### Understanding
+
+Deputies should take time to understand another person's point of view.
+
+Empathy helps keep interactions calm, respectful, and fair.
+
+### Clear Communication
+
+Deputies must communicate in a way that is easy to understand.
+
+Clear communication includes speaking professionally, listening carefully, and making sure instructions are direct and reasonable.
+
+### Leadership
+
+Leadership is not only about rank.
+
+A good deputy sets an example, helps others stay focused, and keeps the team moving in the right direction.
+
+### Creativity
+
+Not every situation can be solved the same way.
+
+Deputies should be willing to think carefully, adapt, and use good judgment when normal approaches do not work.
+
+---
+
+## 4. Chain of Command
+
+The chain of command exists to maintain order, accountability, communication, and leadership within CCSO.
+
+Members should report concerns, questions, complaints, and requests to the lowest available supervisor before contacting higher command, unless the issue is urgent, sensitive, or involves that supervisor directly.
 
 ::: danger
-Disrespecting the chain of command may result in disciplinary action.
+Disrespecting or intentionally bypassing the chain of command may result in disciplinary action.
 :::
 
----
+### Sheriff
 
-## 6. Operational Structure
+The Sheriff is the department's top decision-maker.
 
-### Patrol Operations
+The Sheriff shapes the overall direction of CCSO, sets long-term goals, makes final decisions on major issues, and ensures the department remains aligned with its mission.
 
-Patrol Operations are the foundation of the Caledonia County Sheriff's Office.
+### Undersheriff
 
-All deputies are expected to conduct patrol duties professionally and respond to calls when available.
+The Undersheriff is the Sheriff's closest partner in leadership.
 
-### Patrol Duties
+The Undersheriff manages daily operations, helps enforce department policy, resolves internal issues, coordinates with command staff, and may act on behalf of the Sheriff when the Sheriff is unavailable.
 
-Deputies assigned to patrol operations are responsible for:
+### Assistant Undersheriff
 
-- Routine patrol.
-- Traffic enforcement.
-- Responding to emergency calls.
-- Conducting traffic stops.
-- Assisting civilians.
-- Backing up other units.
-- Securing active scenes.
-- Transporting suspects.
-- Reporting major incidents to supervisors.
+The Assistant Undersheriff provides direct support to the Sheriff and Undersheriff.
 
-### Patrol Expectations
+This position assists with personnel oversight, policy enforcement, daily operations, and command coordination.
 
-- Deputies must use approved uniforms.
-- Deputies must use approved vehicles.
-- Deputies must follow traffic laws unless responding to an emergency.
-- Deputies must use emergency equipment properly.
-- Deputies must remain professional during all interactions.
-- Deputies must avoid interfering with another unit's scene unless requested.
+### Colonel
 
----
+The Colonel serves as a senior advisor within the Sheriff's Office.
 
-## 7. Subdivision Management
+The Colonel assists with supervising staff, coordinating internal operations, and assuming leadership duties when needed.
 
-Subdivisions are specialized units within CCSO that provide additional department functions.
+### Lieutenant Colonel
 
-Each subdivision must operate under an approved structure and must follow all CCSO policies.
+Lieutenant Colonels operate within the executive command tier.
 
-### Subdivision Requirements
+They supervise command-level personnel, help protect the department from misconduct, and maintain coordination with command staff to keep the agency organized and effective.
 
-In order to create or lead a subdivision, the member must:
+### Major
 
-- Be approved by CCSO Command.
-- Hold the required rank set by department leadership.
-- Have an approved subdivision SOP.
-- Have an approved training guide.
-- Have an approved application or selection process.
-- Maintain activity within the subdivision.
-- Follow all department policies.
+A Major is a senior leader responsible for overseeing specialized operational units.
 
-### Approved Subdivision Examples
+Majors manage teams with advanced training, coordinate resources for major incidents, and provide high-level direction for assigned divisions.
 
-- Special Response Team
-- K-9 Unit
-- Traffic Services Unit
-- Field Training Division
-- Criminal Investigations Division
-- Warrant Services Division
+### Captain
 
-::: tip
-Subdivisions should improve department operations, not create unnecessary separation or power struggles.
-:::
+Captains supervise field operations and ensure patrol personnel maintain public safety standards.
 
----
+They manage resource deployment, monitor operational performance, and guide patrol divisions and units under their command.
 
-## 8. Uniform Policy
+### Lieutenant
 
-All CCSO members must wear the correct uniform while on duty.
+Lieutenants ensure deputies follow department policy and maintain strong performance.
 
-### Uniform Rules
+They support Captains and Majors by providing guidance, training, administrative oversight, and communication between command staff and frontline personnel.
 
-- Members must wear the uniform assigned to their rank or division.
-- Members may not wear unauthorized uniforms.
-- Members may not impersonate a higher rank.
-- Members may not wear unrealistic or unprofessional accessories.
-- Supervisors may correct uniform issues at any time.
-- Division uniforms may only be worn when assigned or authorized.
+### Sergeant
+
+Sergeants serve as on-scene supervisors.
+
+They direct deputies during daily operations, ensure compliance with agency procedures, provide mentorship, and assist with practical training.
+
+### Corporal
+
+Corporals are experienced deputies who take on leadership responsibilities within assigned teams or units.
+
+They assist with training, provide operational guidance, help maintain workflow, and may support supervisors with administrative tasks.
+
+### Deputy III
+
+Deputy IIIs are experienced members of CCSO who have demonstrated strong knowledge and performance.
+
+They may mentor newer deputies and may hold advanced training or specialized skills in areas such as investigations, community engagement, or focused assignments.
+
+### Deputy II
+
+Deputy IIs are mid-level deputies with field experience.
+
+They handle patrol responsibilities, assist with investigative work, and help maintain public safety throughout the county.
+
+### Deputy I
+
+Deputy I is the entry-level sworn deputy position within CCSO.
+
+Deputy Is respond to calls for service, conduct patrols, enforce local laws and ordinances, and form the foundation of frontline policing.
 
 ---
 
-## 9. Vehicle Policy
+## 5. Department Divisions
 
-All CCSO members must use approved department vehicles while on duty.
+### Patrol Bureau
 
-### Vehicle Rules
+The Patrol Bureau manages day-to-day policing responsibilities across Caledonia County.
 
-- Members may only use vehicles approved for their rank or division.
-- Emergency lights and sirens may only be used for valid law enforcement purposes.
-- Members may not drive recklessly without reason.
-- Members may not use department vehicles for personal use.
-- Vehicles should be parked properly at scenes.
-- Damaged vehicles should be repaired or replaced when reasonable.
+Deputies assigned to patrol focus on routine patrols, emergency responses, traffic enforcement, and general community safety.
+
+### Strategic Investigations Division
+
+The Strategic Investigations Division conducts visible and undercover investigations.
+
+This division works with local and federal partners to investigate organized criminal activity, homicides, robberies, violent crimes, and other major offenses.
+
+### Special Weapons and Tactics
+
+SWAT is deployed for situations that exceed the capabilities of standard patrol units.
+
+SWAT may handle high-risk warrants, large-scale disturbances, hostage situations, barricaded individuals, and active shooter incidents.
+
+### Traffic Enforcement Unit
+
+The Traffic Enforcement Unit focuses on roadway safety.
+
+This unit targets dangerous driving, responds to serious traffic issues, runs specialized traffic operations, and enforces traffic laws to reduce crashes.
+
+### Training Division
+
+The Training Division prepares Sheriff’s Cadets and department members for real-world duty.
+
+Field Training Officers conduct supervised ride-alongs, coordinate training sessions, and help improve department readiness.
+
+### Human Resources Office
+
+The Human Resources Office maintains ethical standards and professionalism within the agency.
+
+This office oversees internal reviews, policy creation, compliance checks, accountability measures, and department improvement efforts.
+
+### Public Information Office
+
+The Public Information Office manages communication between CCSO and the community.
+
+This office provides official updates, handles media relations, releases statements, and ensures the public receives accurate and reliable information.
+
+---
+
+## 6. Functions & Responsibilities
+
+### Sheriff Station Responsibilities
+
+Every deputy is expected to carry out essential law enforcement duties, including protecting life, safeguarding property, and maintaining peace within Caledonia County.
+
+### Jurisdiction
+
+The Caledonia County Sheriff's Office holds authority throughout the County of Caledonia.
+
+CCSO may assist other agencies when additional law enforcement support is required.
+
+### Patrol Responsibility
+
+Deputies are responsible for patrolling all areas within Caledonia County and enforcing state laws.
+
+Duties include:
+
+- Responding to calls for service.
+- Conducting patrol operations.
+- Completing reports.
+- Assisting partner agencies.
+- Making arrests when violations of the Caledonia penal code require it.
+- Maintaining professionalism while representing CCSO.
+
+---
+
+## 7. Emergency Lights & Siren Procedure
+
+Emergency equipment must only be used for valid law enforcement purposes.
+
+### Response Codes
+
+| Code | Equipment | Usage |
+| --- | --- | --- |
+| Code 1 | No lights, no siren | Used when responding without emergency equipment. Deputies must follow normal traffic laws. |
+| Code 2 | Lights, no siren | Used when responding with emergency lights activated but without the siren. This increases visibility while maintaining controlled driving. |
+| Code 3 | Lights and siren | Used for emergency responses requiring immediate arrival. Both lights and siren must be activated. |
+
+When responding Code 3, deputies must use sirens as needed to warn drivers and ensure vehicles can safely yield or pull over.
+
+Emergency equipment should be turned off once the response is complete or when it is no longer necessary.
 
 ::: warning
-Vehicle misuse may result in disciplinary action.
+Misuse of emergency lights or sirens may result in disciplinary action.
 :::
 
 ---
 
-## 10. Traffic Stop Positioning
+## 8. Traffic Stop Procedure
+
+Traffic stops are conducted when a deputy observes a traffic violation, suspicious activity, or another lawful reason to stop a vehicle.
+
+### Traffic Stop Steps
+
+1. Identify a lawful reason for the stop.
+2. Position the patrol vehicle safely behind the suspect vehicle.
+3. Activate emergency lights to signal the driver to pull over.
+4. Notify radio when appropriate.
+5. Approach the vehicle cautiously.
+6. Identify yourself as a member of the Sheriff's Office.
+7. Clearly explain the reason for the stop.
+8. Request the driver's license, registration, and proof of insurance when applicable.
+9. Determine whether to issue a warning, citation, arrest, or other lawful action.
+10. Clear the stop professionally once the situation is resolved.
+
+### Stop Outcomes
+
+Depending on the circumstances, a deputy may:
+
+- Issue a verbal warning.
+- Issue a citation.
+- Conduct further investigation.
+- Request backup.
+- Detain or arrest the subject if probable cause exists.
+
+---
+
+## 9. Traffic Stop Positioning
 
 Traffic stop positioning is used to improve deputy safety during vehicle stops.
 
@@ -273,6 +332,7 @@ Deputies should:
 - Avoid standing directly between the patrol unit and the stopped vehicle.
 - Adjust positioning based on traffic, terrain, lighting, and scene safety.
 - Request backup when the stop presents increased risk.
+- Avoid positioning the patrol vehicle in a way that creates unnecessary danger for passing traffic.
 
 ::: warning
 Traffic stop positioning should never create unnecessary danger for civilians, other deputies, or passing traffic.
@@ -282,438 +342,420 @@ Traffic stop positioning should never create unnecessary danger for civilians, o
 
 ---
 
-## 11. Disciplinary Guidelines
+## 10. Arrest, Miranda Rights & Interrogation Procedure
 
-### Guideline Basis
+### Arrest Procedure
 
-All CCSO members, regardless of rank, are held to the same department standard.
+An arrest may only occur when a deputy has probable cause to believe a person has committed a crime.
 
-Discipline is used to correct behavior, maintain professionalism, and protect the integrity of the department.
+Deputies must clearly inform the suspect that they are under arrest and provide verbal commands to ensure compliance.
 
-Disciplinary action may depend on:
+After a lawful arrest, the deputy should:
 
-- Severity of the violation.
-- Member's history.
-- Intent behind the action.
-- Impact on the scene or department.
-- Whether the member accepted correction.
-- Whether the action violated NCRP rules or CCSO policy.
+- Detain the suspect.
+- Search the suspect for weapons, contraband, or illegal items.
+- Secure the suspect in the patrol vehicle.
+- Transport the suspect to the proper detention location.
+- Complete processing according to department procedure.
 
----
+### Miranda Rights Procedure
 
-## 12. Activity Requirements
+Deputies must read a suspect their Miranda Rights before questioning them about a crime after they are in custody.
 
-All CCSO members are expected to remain active within the department.
+Miranda Rights explain the suspect's ability to remain silent, have an attorney present, and understand those protections before interrogation continues.
 
-### Minimum Expectations
+### Interrogation Procedure
 
-Members should:
+Interrogations may take place after a suspect is arrested and read their Miranda Rights.
 
-- Patrol when available.
-- Attend required trainings or meetings.
-- Stay updated on department announcements.
-- Respond to department notices when needed.
-- Submit an LOA if they cannot remain active.
+Deputies must question suspects professionally and may not use threats, coercion, harassment, or unrealistic pressure.
 
-### Inactivity
-
-Members who fail to meet activity expectations may receive:
-
-- Activity reminder.
-- Verbal warning.
-- Written warning.
-- Rank review.
-- Suspension.
-- Removal from CCSO.
-
-::: tip
-Members who need time away should request a Leave of Absence instead of going inactive without notice.
-:::
+The goal of an interrogation is to gather lawful information relevant to the investigation.
 
 ---
 
-## 13. Disciplinary Actions
+## 11. Pursuit, PIT & Intervention Procedure
 
-Depending on severity, one or more disciplinary actions may be issued.
+### Vehicle Pursuit Procedure
 
-### Verbal Warning
+Vehicle pursuits occur when a suspect attempts to evade law enforcement by fleeing in a vehicle.
 
-Issued for minor offenses.
+Deputies initiating a pursuit must notify other units and provide updates, including:
 
-Examples:
+- Location.
+- Direction of travel.
+- Vehicle description.
+- Reason for pursuit.
+- Request for additional units if needed.
 
-- Minor professionalism issues.
-- Small uniform mistakes.
-- Minor radio mistakes.
-- First-time patrol errors.
+Deputies must operate their vehicles safely while maintaining visual contact with the suspect.
 
-### Written Warning
-
-Issued for normal offenses or repeated minor issues.
-
-Examples:
-
-- Repeated failure to follow policy.
-- Improper scene conduct.
-- Disrespectful behavior.
-- Failure to follow supervisor direction.
-
-### Re-Certification
-
-Issued when a member needs to be retrained.
-
-Examples:
-
-- Poor traffic stop procedure.
-- Improper arrest procedure.
-- Poor pursuit handling.
-- Misunderstanding use-of-force policy.
-
-### Suspension
-
-Issued for serious offenses.
-
-Examples:
-
-- Major misconduct.
-- Abuse of authority.
-- Repeated policy violations.
-- Failure to follow command orders.
-
-### Demotion
-
-Issued when a member is no longer fit for their current rank.
-
-Examples:
-
-- Poor leadership.
-- Abuse of supervisor authority.
-- Inactivity as a supervisor.
-- Repeated disciplinary issues.
-
-### Removal from Subdivision
-
-Issued for subdivision-related violations.
-
-Examples:
-
-- Failure to follow subdivision policy.
-- Inactivity within the subdivision.
-- Misuse of subdivision tools or authority.
-- Failure to meet subdivision standards.
-
-### Removal from Department
-
-Issued for severe or repeated violations.
-
-Examples:
-
-- Major abuse of power.
-- Severe misconduct.
-- Repeated failure to follow policy.
-- Violating NCRP rules.
-- Damaging the reputation of CCSO.
+Public safety must always be the highest priority.
 
 ::: danger
-Command staff reserves the right to adjust discipline based on the severity of the incident.
+Deputies are not permitted to drive in opposite lanes of travel during a pursuit. If the suspect enters an opposing lane, notify dispatch and continue driving in the correct lane.
 :::
 
----
+### Pursuit Termination
 
-## 14. Pursuit Policy
-
-Pursuits are dangerous and must be handled with caution.
-
-A pursuit may only be initiated when there is a valid reason to do so.
-
-### Valid Reasons to Initiate a Pursuit
-
-A pursuit may be initiated for:
-
-- Felony evasion.
-- Violent crime.
-- Armed suspect.
-- Active warrant.
-- Hit and run.
-- Reckless endangerment.
-- Suspect fleeing from a lawful stop.
-- Suspect involved in a serious crime.
-
-### Pursuit Expectations
-
-During a pursuit, deputies must:
-
-- Call out the pursuit over radio.
-- Provide location and direction of travel.
-- Provide vehicle description.
-- Provide reason for pursuit.
-- Avoid unnecessary radio traffic.
-- Drive realistically.
-- Watch for civilians and other units.
-- Follow supervisor instructions.
-
-### Pursuit Callout Format
-
-```txt
-[Callsign], active pursuit.
-Location:
-Direction:
-Vehicle:
-Reason:
-Requesting:
-```
-
----
-
-## 15. Termination of Pursuit
-
-A pursuit may be terminated if it becomes too dangerous or unreasonable to continue.
-
-### Reasons to Terminate a Pursuit
+Supervisors may terminate a pursuit if the risk to the public becomes too great.
 
 A pursuit may be terminated if:
 
-- The risk to civilians becomes too high.
-- Deputies lose visual contact.
+- Civilian risk becomes too high.
+- Units lose visual contact.
 - The suspect enters an unsafe area.
 - Units are driving recklessly.
-- The suspect cannot be safely stopped.
 - A supervisor orders termination.
+- Continuing the pursuit would create more danger than stopping it.
 
-### Pursuit Termination Authority
+Once terminated, units must stop actively pursuing unless otherwise directed by a supervisor.
 
-Supervisors may order a pursuit to be terminated at any time.
+### Vehicle PIT Procedure
 
-Once terminated, all units must stop actively pursuing unless otherwise directed by a supervisor.
+The Precision Immobilization Technique, also known as PIT, is used to safely disable a fleeing suspect vehicle during a pursuit.
 
-::: warning
-Ignoring a pursuit termination order may result in disciplinary action.
-:::
+A PIT may only be used when authorized and when road conditions allow it to be performed safely.
 
----
+### PIT Expectations
 
-## 16. Pursuit Intervention Techniques
-
-Pursuit intervention techniques may only be used when safe, justified, and authorized.
-
-### Approved Techniques
-
-- Pursuit Intervention Technique
-- Rolling Roadblock
-- Boxing-In Method
-- Tire Deflation Devices, if authorized by department policy
-
-### Authorization
-
-Pursuit intervention must be authorized by the highest-ranking active supervisor involved in the pursuit, unless immediate action is needed to prevent serious harm.
-
----
-
-## 17. Rolling Roadblock
-
-A rolling roadblock is used to slow or stop a fleeing vehicle by controlling the vehicle's movement.
-
-### Rolling Roadblock Procedure
-
-- Units position themselves around the fleeing vehicle.
-- Units slow down gradually.
-- The suspect vehicle is guided to a controlled stop.
-- Units must avoid causing unnecessary collisions.
-- The maneuver must be stopped if it becomes unsafe.
-
-### Rolling Roadblock Requirements
-
-A rolling roadblock may only be used when:
-
-- There is enough roadway space.
-- Civilian traffic is limited.
-- Units can coordinate safely.
-- The suspect vehicle is not traveling at extreme speeds.
-- A supervisor authorizes the maneuver when required.
-
----
-
-## 18. Pursuit Intervention Technique
-
-The Pursuit Intervention Technique, also known as PIT, is used to stop a fleeing vehicle by causing it to lose forward control in a controlled manner.
-
-### PIT Requirements
-
-A PIT may only be used when:
+Deputies must ensure:
 
 - The road is clear enough to perform the maneuver.
-- The fleeing vehicle is not traveling at extreme speed.
-- The maneuver will not place civilians at unreasonable risk.
-- The maneuver will not cause excessive property damage.
-- A supervisor authorizes the maneuver when required.
+- Civilian traffic is limited.
+- The suspect is not near pedestrians.
+- The suspect is not in a high-risk area.
+- The maneuver will not create more danger than the pursuit itself.
+- The proper supervisor authorization has been received when required.
 
 ### PIT Restrictions
 
-A PIT should not be used when:
+PIT maneuvers should not be used:
 
-- The suspect is near heavy traffic.
-- The suspect is near civilians.
-- The suspect is on a narrow bridge or dangerous roadway.
-- The suspect is traveling at unsafe speeds.
-- The maneuver would create more danger than the pursuit itself.
-
-::: danger
-Unauthorized or reckless pursuit intervention may result in suspension, demotion, or removal from CCSO.
-:::
-
----
-
-## 19. Civilian Ride-Along Program
-
-The Civilian Ride-Along Program allows approved civilians to observe CCSO patrol operations.
-
-Ride-alongs are a privilege and may be denied or ended at any time.
-
-### Ride-Along Requirements
-
-To participate in a ride-along, a civilian must:
-
-- Have no active warrants.
-- Have no recent violent criminal record.
-- Have no recent serious citations.
-- Follow all deputy instructions.
-- Remain professional during the ride-along.
-- Not interfere with scenes.
-- Not handle law enforcement equipment.
-- Not exit the vehicle unless instructed.
-
-### Ride-Along Rules
-
-Civilians participating in a ride-along must:
-
-- Remain with the assigned deputy.
-- Stay inside the vehicle during active scenes unless told otherwise.
-- Avoid interrupting radio traffic.
-- Avoid interfering with arrests, searches, or investigations.
-- Follow all NCRP rules.
-- Accept that the ride-along may end at any time.
+- In heavy traffic.
+- Near pedestrians.
+- On narrow bridges.
+- At unsafe speeds.
+- In areas where property damage or civilian injury is likely.
+- When the maneuver is not justified.
 
 ::: warning
-Failure to follow ride-along rules may result in the ride-along being ended immediately.
+Unauthorized or reckless PIT maneuvers may result in suspension, demotion, or removal from CCSO.
 :::
 
 ---
 
-## 20. Use-of-Force Continuum
+## 12. Use of Force & Taser Deployment
 
-CCSO members must use only the amount of force necessary to control a situation.
+### Use of Force Procedure
 
-Force should be reasonable, justified, and based on the threat presented.
+Deputies must always use the minimum level of force necessary to control a situation.
 
-### Level 1 - Officer Presence
+The first response should be verbal commands instructing the suspect to comply.
 
-Officer presence means the deputy is present and visible.
+If the suspect resists, deputies may use physical restraint techniques to control the individual.
 
-This is the lowest level of force and is often enough to control a situation.
+Non-lethal tools, such as tasers, may be used when necessary to stop aggressive behavior.
 
-Examples:
+Deadly force may only be used when there is an immediate threat of serious harm or death.
 
-- Standing near a scene.
-- Having a marked patrol vehicle visible.
-- Giving a professional presence during a call.
+### Use of Force Expectations
 
-### Level 2 - Verbal Commands
+Deputies must:
 
-Verbal commands are used to gain compliance without physical force.
+- Use reasonable force based on the threat presented.
+- Attempt verbal commands when practical.
+- Avoid unnecessary escalation.
+- Stop using force once the subject is controlled.
+- Request medical assistance when needed.
+- Report serious use-of-force incidents to a supervisor.
 
-Examples:
+### Taser Deployment Procedure
 
-```txt
-Stop moving.
-Show me your hands.
-Step out of the vehicle.
-Drop the weapon.
-Get on the ground.
-Face away from me.
-```
+A taser may be used when a suspect becomes aggressive, refuses lawful commands, or poses a threat to the deputy or others.
 
-### Level 3 - Empty-Hand Control
+Deputies should give verbal warnings before deploying a taser whenever possible.
 
-Empty-hand control is used when a subject refuses to comply or physically resists.
-
-Examples:
-
-- Escorting a subject away from a scene.
-- Physically controlling a resisting subject.
-- Moving a subject into a safe position.
-
-### Level 4 - Less-Lethal Force
-
-Less-lethal force may be used to control a resisting or fleeing subject when verbal commands are not effective.
-
-Examples:
-
-- Taser deployment.
-- Baton use, if authorized.
-- Pepper spray, if authorized.
-- Other approved less-lethal tools.
-
-### Level 5 - Lethal Force
-
-Lethal force may only be used when there is an immediate threat of death or serious bodily harm.
-
-Lethal force may be justified when:
-
-- A suspect points a firearm at a deputy or civilian.
-- A suspect actively attacks someone with a deadly weapon.
-- A suspect creates an immediate threat to life.
-- No reasonable lower-force option is available.
+After deployment, the suspect should be secured and checked for injuries before further action is taken.
 
 ::: danger
-Lethal force may not be used simply because a suspect is running, arguing, refusing commands, or being disrespectful.
+Force may not be used simply because a subject is disrespectful, arguing, or failing to immediately agree with a deputy.
 :::
 
 ---
 
-## 21. Scene Conduct
+## 13. Search & Evidence Handling Procedure
 
-All CCSO members must conduct themselves professionally on scenes.
+### Search Procedure
 
-### Scene Rules
+Deputies may conduct searches only when lawful authority exists.
 
-- Do not overcrowd scenes.
-- Do not take over another deputy's scene without reason.
-- Do not argue with civilians.
-- Do not argue with other departments.
-- Keep radio traffic clear.
-- Follow supervisor instructions.
-- Maintain scene security.
-- Allow medical personnel to handle medical situations.
-- Request backup when needed.
+Examples include:
+
+- Search incident to arrest.
+- Probable cause.
+- Consent when valid.
+- Department-approved investigative procedures.
+
+A suspect search is performed to locate weapons, contraband, illegal items, or evidence.
+
+Vehicle searches may occur when there is reasonable belief that illegal items are present within the vehicle.
+
+### Evidence Handling Procedure
+
+Any evidence collected during an investigation must be handled carefully and documented properly.
+
+Deputies must ensure evidence remains secure, is not tampered with, and is handled in a way that protects the integrity of the investigation.
+
+Proper documentation maintains credibility during case review and supports professional investigations.
 
 ---
 
-## 22. Interdepartmental Relations
+## 14. High Priority Scenes
 
-CCSO members must work professionally with all other departments within NCRP.
+### Overview
 
-### Expectations
+High-priority incidents include robberies, hostage situations, armed suspects, barricaded suspects, and other scenes requiring maximum caution and coordination.
 
-- Assist other departments when requested.
-- Do not interfere with another department's scene.
-- Respect other department supervisors.
-- Share information when needed.
-- Avoid power struggles.
-- Handle disagreements through supervisors.
+Deputies should respond Code 3, notify radio when en route, and provide updates if they are the closest unit.
+
+When possible, deputies should avoid arriving alone and wait for backup if the scene appears dangerous.
+
+### First Unit on Scene
+
+The first deputy to arrive becomes the initial scene officer.
+
+The initial scene officer must:
+
+- Assess the situation.
+- Provide a detailed radio update.
+- Maintain a safe distance.
+- Identify immediate threats.
+- Protect civilians when possible.
+- Avoid entering buildings without supervisor or tactical approval.
+
+### Perimeter & Scene Security
+
+Responding deputies must establish a perimeter to contain suspects and protect civilians.
+
+Deputies should position vehicles to cover:
+
+- Entrances.
+- Exits.
+- Escape routes.
+- Traffic access points.
+- Civilian safety zones.
+
+Units must communicate positions clearly over radio.
+
+### Bank and Jewelry Robbery Procedure
+
+Deputies should secure nearby streets and monitor exits.
+
+Deputies must not enter the building unless instructed by a supervisor or tactical command.
+
+Deputies should observe suspect movement and provide updates.
+
+If suspects flee, units should coordinate pursuit safely and follow pursuit policy.
+
+### Hostage Situation Procedure
+
+Deputies must maintain a large safety perimeter.
+
+Deputies should avoid aggressive actions unless immediate intervention is necessary to protect life.
+
+Responding units should gather information about:
+
+- Suspects.
+- Hostages.
+- Weapons.
+- Demands.
+- Escape routes.
+- Scene layout.
+
+Patrol units should focus on containment until a supervisor or tactical team assumes command.
+
+### Suspect Escape or Pursuit
+
+If suspects flee, deputies may initiate a pursuit if it is safe and justified.
+
+Deputies must provide continuous radio updates.
+
+Other units should cover potential escape routes and avoid overcrowding the pursuit.
+
+Supervisors may terminate unsafe pursuits at any time.
+
+### Scene Control After Incident
+
+After a high-priority incident, deputies must:
+
+- Keep civilians away.
+- Secure the area.
+- Assist with suspect transport.
+- Preserve evidence.
+- Follow supervisor instructions.
+- Maintain professional scene control until cleared.
+
+---
+
+## 15. Breaching Policy
+
+Breaching is strictly restricted to SWAT personnel.
+
+Breaching may only be conducted by members who are trained and authorized to perform forced entry operations.
+
+Patrol deputies and non-SWAT personnel are not permitted to breach doors, windows, or secured entry points during any situation, including robberies, barricaded suspects, or hostage scenarios.
+
+If a breach is required, responding units must:
+
+- Secure the perimeter.
+- Contain the scene.
+- Protect civilians.
+- Wait for SWAT to arrive.
+- Allow SWAT to take control of the operation.
+
+::: danger
+Any member who attempts or conducts a breach without proper authorization or SWAT certification may face disciplinary action, including warnings, suspension, removal from the team, or further punishment depending on the severity of the violation.
+:::
+
+---
+
+## 16. Department Policies
+
+### Uniform Policy
+
+All members must wear the approved department uniform while on duty.
+
+Uniforms must match the deputy's assigned rank and division.
+
+Unauthorized clothing, unrealistic gear, or non-department accessories are not permitted while representing CCSO.
+
+Deputies must maintain a clean and professional appearance during patrol.
+
+### Appearance Policy
+
+Deputies must maintain a professional appearance while on duty.
+
+Hair should be neat, clean, and not excessively long or unrealistic.
+
+Facial hair is permitted but must remain trimmed and professional.
+
+Extreme hairstyles, bright colors, or unrealistic character customization are not allowed while representing the department.
+
+### Activity Policy
+
+Members are expected to remain reasonably active within the department.
+
+Deputies should regularly participate in patrols, training, or department activities.
+
+There is a mandatory quota of **1 hour every week**.
+
+Extended inactivity without notice may result in removal from the department to ensure CCSO remains active and operational.
+
+### Leave of Absence Policy
+
+Members who are unable to remain active for a period of time must submit a Leave of Absence request.
+
+The request should include the expected duration of the absence.
+
+Members on LOA are temporarily exempt from activity requirements but may not participate in patrols until their leave has ended.
 
 ::: tip
-CCSO should represent professionalism, cooperation, and leadership within Northern Caledonia.
+Members who need time away should request an LOA instead of going inactive without notice.
 :::
+
+### Promotion Policy
+
+Promotions are based on activity, professionalism, experience, performance, leadership, and knowledge of department procedures.
+
+Deputies must demonstrate the ability to handle situations responsibly.
+
+Promotions are determined and approved by supervisory or command staff.
+
+### Supervisor Request Policy
+
+Deputies may request a supervisor during incidents that require higher authority or guidance.
+
+Examples include:
+
+- Disputes.
+- Complex scenes.
+- Complaints.
+- Disciplinary issues.
+- Confusion about department policy.
+- Situations requiring command approval.
+
+Deputies requesting a supervisor should provide their location and a brief explanation of the situation.
+
+### Pursuit Authorization Policy
+
+Vehicle pursuits should only occur when a suspect attempts to flee from law enforcement or commits a serious offense.
+
+Deputies must notify other units when a pursuit begins and provide updates on location and direction of travel.
+
+Supervisors may monitor or terminate pursuits if they become unsafe.
+
+### Lawsuit and Complaint Policy
+
+Civilians may file complaints against deputies if they believe misconduct occurred.
+
+Complaints will be reviewed by department supervisors.
+
+Deputies involved in a complaint may be placed on administrative leave during the investigation and must cooperate by providing accurate information regarding the incident.
+
+### Professional Conduct Policy
+
+Members must behave respectfully and professionally while on duty.
+
+Abuse of authority, harassment, and unrealistic roleplay behavior are strictly prohibited.
+
+Deputies must represent CCSO in a positive and professional manner at all times.
+
+### Vehicle Policy
+
+Deputies may only operate approved sheriff vehicles with authorized department liveries.
+
+Vehicles must be driven responsibly and used only for official law enforcement purposes.
+
+Misuse of emergency lights, sirens, or reckless driving without justification is prohibited and may result in punishment.
+
+### Punishment Policy
+
+Disciplinary action may depend on the severity of the violation, the member's history, intent, and impact on the department.
+
+Minor violations may lead to warnings or infractions.
+
+Major violations may result in immediate suspension, demotion, or removal.
+
+### Strike & Infraction System
+
+- Infractions and strikes may be cleared over time.
+- Any suspension automatically results in a strike.
+- Reaching **2 strikes** results in termination.
+- Accumulating **4 infractions** results in a **1-week suspension** and a **first strike**.
+- Receiving **3 additional infractions** after the first strike results in a **second strike** and termination.
+
+::: warning
+Command staff reserves the right to adjust punishment based on severity.
+:::
+
+### Chain of Command Policy
+
+Members must respect the department chain of command.
+
+Orders from supervisors should be followed unless they violate department policy or server rules.
+
+Concerns should be brought to the appropriate supervisor or command member.
 
 ---
 
-## 23. Final Notes
+## 17. Final Notes
 
 All members of the Caledonia County Sheriff's Office are required to follow this Standard Operating Procedure.
 
 This document may be updated at any time by CCSO Command or NCRP Administration.
 
-By serving as a member of CCSO, you agree to follow all department policies, NCRP rules, and lawful orders from the chain of command.
+By serving as a member of CCSO, you agree to follow department policies, NCRP rules, and lawful orders from the chain of command.
 
 ::: tip
 The badge represents trust, responsibility, and service. Wear it with professionalism.
