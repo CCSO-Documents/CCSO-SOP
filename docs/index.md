@@ -8,10 +8,6 @@ The **Caledonia County Sheriff's Office**, also known as **CCSO**, is a professi
 
 This manual serves as the foundational reference for all CCSO personnel. It outlines department standards, responsibilities, expectations, procedures, and policies to ensure consistent and professional conduct across all divisions.
 
-**Author:** Sheriff Fowler  
-**Last Updated:** 03/16/26  
-**Status:** Currently in Effect
-
 ::: warning
 Failure to follow department policy may result in disciplinary action, including warnings, infractions, suspension, demotion, or removal from the department.
 :::
