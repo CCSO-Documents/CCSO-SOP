@@ -33,7 +33,6 @@ Failure to follow department policy may result in disciplinary action, including
 - [15. Breaching Policy](#_15-breaching-policy)
 - [16. Department Policies](#_16-department-policies)
 - [17. Final Notes](#_17-final-notes)
-- Hello Nathan is the best 01
 
 ---
 
